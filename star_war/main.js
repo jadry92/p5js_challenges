@@ -24,5 +24,5 @@ const sketch = (p) => {
   };
 }
 
-new p5(sketch, 'sk-star-wars');
+new p5(sketch, 'sk-star-war-animation');
 
