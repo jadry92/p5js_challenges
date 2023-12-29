@@ -1,5 +1,5 @@
 import p5 from 'p5';
-import Cell from './cell';
+import Cell from './Cell';
 
 const sketch = (p) => {
   let cells = [];
